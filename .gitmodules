@@ -1,0 +1,4 @@
+[submodule "feature-1-named"]
+	path = Submodule_POC
+	url = https://github.com/WBakerOMS/Submodule_POC.git
+	branch = feature-1
