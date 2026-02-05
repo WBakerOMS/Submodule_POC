@@ -2,15 +2,16 @@
 #include <vector>
 #include <string>
 
+#include "Submodule_POC/feature1-include.hpp"
+
 using namespace std;
 
 int main()
 {
-    vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
+    vector<string> msg {FEATURE_1};
 
     for (const string& word : msg)
     {
-        cout << word << " ";
+        cout << word << endl;
     }
-    cout << endl;
 }
