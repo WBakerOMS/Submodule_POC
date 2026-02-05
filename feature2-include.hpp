@@ -1,0 +1,1 @@
+#define FEATURE_2 "feature 2 also added!"
