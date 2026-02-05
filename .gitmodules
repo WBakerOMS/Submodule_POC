@@ -2,3 +2,8 @@
 	path = feat1/Submodule_POC
 	url = https://github.com/WBakerOMS/Submodule_POC.git
 	branch = feature-1
+
+[submodule "feature-2-named"]
+	path = feat2/Submodule_POC
+	url = https://github.com/WBakerOMS/Submodule_POC.git
+	branch = feature-2
